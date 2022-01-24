@@ -4,7 +4,6 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
-  background-color: #FFFFFF;
 }
 
 .navigation__logo-container{
@@ -36,6 +35,8 @@
   color:#6A707B;
   margin: 0 0 0.3rem 1.8rem;
   border-bottom: 1px solid transparent;
+  text-transform: capitalize;
+
   &:hover{
     border-bottom: 1px solid;
     color: #4066A5;

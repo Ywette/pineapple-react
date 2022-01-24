@@ -16,7 +16,6 @@
   align-items: center;
   justify-content: center;
   background: #FFFFFF;
-  margin: 0 20px;
 }
 
 .subscribe__image-wrapper{
@@ -34,10 +33,13 @@
   }
 
 @media (max-width: 999px) {
+  .subscribe {
+    margin: 0 20px;
+  }
+
   .navigation{
     padding: 7px 13px;
-    background: #FFFFFF;
-
+    background-color: #FFFFFF;
   }
 
   .navigation__logo-name {
@@ -47,15 +49,31 @@
   .navigation__link{
     margin-left: .8rem;
   }
+
+  .subscribe__name{
+    font-size: 24px;
+  }
+
+  .subscribe__text{
+    font-size: 14px;
+  }
+
+  .form__input-wrapper{
+    max-width: 100%;
+  }
+  .form__checkbox-wrapper,
+  .subscribe__name-wrapper{
+    margin: 30px 0;
+  }
 }
 
 @media (min-width: 860px) {
   .navigation{
     padding: 100px;
   }
+
   .subscribe {
     display:flex;
-
   }
 
   .subscribe__info{
@@ -66,23 +84,23 @@
     justify-content: flex-end;
   }
 
-  .form__input-wrapper {
-    width: calc(100% + 185px);
-    margin: 50px 0 30px 0;
-  }
-
   .subscribe__image-wrapper {
     position:static;
     height: 100vh;
-    //background-position: inherit;
     background-size: cover;
   }
 
   .subscribe__name{
-    font-size: 26px;
+    font-size: 32px;
+  }
+
+  .subscribe__text{
+    font-size: 16px;
   }
 
   .form__social-icon-wrapper{
     padding-top: 20px
   }
+
+
 }

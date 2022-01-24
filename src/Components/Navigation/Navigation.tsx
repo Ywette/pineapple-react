@@ -20,8 +20,8 @@ const Navigation = () => (
 
       {navigationLinks.map((link) => (
 
-        <li key={link} className="navigation__link">
-          <Link key={link} to="/">
+        <li key={link}>
+          <Link className="navigation__link" key={link} to="/">
             {link}
           </Link>
         </li>
