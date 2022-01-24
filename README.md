@@ -6,7 +6,7 @@
 Project is made according to Magebit technical task. 
 It is a subscription form, with email and checkbox validation, success message.
 
-You can see the project deployed here: [Pineapple subsribtion form](https://confident-shannon-092223.netlify.app/).
+You can see the project deployed here: [Pineapple subsribtion form](https://eloquent-kalam-4530e5.netlify.app).
 
 ## Available Scripts
 
