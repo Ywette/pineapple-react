@@ -1,3 +1,6 @@
+![alt text](https://github.com/Ywette/pineapple-react/blob/main/public/intro.JPG?raw=true)
+
+
 # Magebit Technical Task / Pineapple Subscribtion Form
 
 Project is made according to Magebit technical task. 
