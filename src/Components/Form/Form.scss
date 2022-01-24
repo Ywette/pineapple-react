@@ -11,11 +11,13 @@
 
 .form__input-wrapper::before{
   position: absolute;
+  top:-1px;
   left:-1px;
   content: '';
-  width: 4px;
-  height: 70px;
+  width: 2px;
+  height: 66px;
   background-color: #4066A5;
+  border: 2px solid #4066A5 ;
   z-index:3;
 }
 
