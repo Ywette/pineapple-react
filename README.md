@@ -17,6 +17,8 @@ Task is made to cover:
 
 ## Available Scripts
 
+Download dependencies with `npm install`
+
 Start project with `npm start`
 
 Project will run on local host: [http://localhost:3000](http://localhost:3000) to view it in the browser.
