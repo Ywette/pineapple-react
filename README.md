@@ -7,6 +7,14 @@ It is a subscription form, with email and checkbox validation, success message.
 
 You can see the project deployed here: [Pineapple subsribtion form](https://eloquent-kalam-4530e5.netlify.app).
 
+Task is made to cover:
+- react Basics;
+- links doesnt lead anywhere;
+- basic form validation;
+- styling;
+- responsivity;
+- reusable components
+
 ## Available Scripts
 
 Start project with `npm start`
