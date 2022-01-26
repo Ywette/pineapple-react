@@ -1,7 +1,7 @@
 ![alt text](https://github.com/Ywette/pineapple-react/blob/main/public/intro.JPG?raw=true)
 
 
-# Subscribtion Form
+# Subscription Form
 
 It is a subscription form, with email and checkbox validation, success message.
 
