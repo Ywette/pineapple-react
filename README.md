@@ -1,7 +1,7 @@
 ![alt text](https://github.com/Ywette/pineapple-react/blob/main/public/intro.JPG?raw=true)
 
 
-# Magebit Technical Task / Pineapple Subscribtion Form
+# Subscribtion Form
 
 Project is made according to Magebit technical task. 
 It is a subscription form, with email and checkbox validation, success message.
